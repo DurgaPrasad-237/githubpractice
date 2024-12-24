@@ -8,10 +8,7 @@
 <body>
     <h1>First Git Sample</h1>
     <h3>Added by Abhi</h3>
-<<<<<<< HEAD
     <h2>button</h2>
-=======
     <p>Testing case 3</p>
->>>>>>> branch1
 </body>
 </html>

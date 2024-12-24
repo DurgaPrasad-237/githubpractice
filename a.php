@@ -7,9 +7,7 @@
 </head>
 <body>
     <h1>First Git Sample</h1>
-<<<<<<< HEAD
-=======
     <h3>Added by Abhi</h3>
->>>>>>> c8b99047d00c9a28490fee122fade4c94061267d
+    <h2>button</h2>
 </body>
 </html>
